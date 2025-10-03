@@ -26,8 +26,9 @@ Estudante A *(Letícia)*: módulo de gerenciamento dos eventos (estrutura de dad
 Estudante B *(Beatriz)*: módulo de interação com usuário (menu, relatórios e filtros).
 
 A colaboração foi feita via GitHub, utilizando branches separados e integração através de pull requests.
-## Autores
+## Alunas
 
-- [@letiscastros](https://www.github.com/letiscastros)
-- [@null](https://www.github.com/null)
+- Letícia Castro de Souza | [@letiscastros](https://www.github.com/letiscastros)
+  
+- Beatriz Rodrigues Andrade Silva | [@null](https://www.github.com/null)
 
