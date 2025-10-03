@@ -30,5 +30,5 @@ A colaboração foi feita via GitHub, utilizando branches separados e integraç�
 
 - Letícia Castro de Souza | [@letiscastros](https://www.github.com/letiscastros)
   
-- Beatriz Rodrigues Andrade Silva | [@null](https://www.github.com/null)
+- Beatriz Rodrigues Andrade Silva | [@beatrizrodriguesandradee-ux](https://www.github.com/beatrizrodriguesandradee-ux)
 
