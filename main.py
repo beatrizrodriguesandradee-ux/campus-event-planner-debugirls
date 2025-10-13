@@ -68,7 +68,7 @@ def deletarEvento(listaEventos, id_or_name):
 
 def displayMenu():
     print("\n=== Planejador de Eventos do Campus ===")
-    print("1. Adicionar Evento")
+    print("1. Adicionar um Evento")
     print("2. Ver Todos os Eventos")
     print("3. Filtrar por Categoria")
     print("4. Marcar Evento como Participado")
