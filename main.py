@@ -73,7 +73,7 @@ def displayMenu():
     print("3. Filtrar por Categoria")
     print("4. Marcar Evento como Participado")
     print("5. Gerar Relatório")
-    print("6. Deletar Evento")
+    print("6. Deletar um Evento")
     print("7. Buscar por Nome")
     print("8. Sair")
 
