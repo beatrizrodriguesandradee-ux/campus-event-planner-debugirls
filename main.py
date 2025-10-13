@@ -126,7 +126,8 @@ def _input_evento_e_adicionar(listaEventos):
     ev = adicionarEvento(listaEventos, nome, data, local, categoria)
     if ev:
         print("\nEvento adicionado com sucesso! (ID:", ev["id"], ")")
-        def main():
+        
+def main():
     listaEventos = []
     print("Bem-vindo ao Planejador de Eventos do Campus")
 
